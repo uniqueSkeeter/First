@@ -1,0 +1,42 @@
+/*上方面板css*/
+.cs-north {
+	width:100%;
+	height:155px;
+	background-color:#00cc99;
+}
+/*logo css*/
+div.title{
+	height:150px;
+	width:1200px;
+	background-image:url(../../image/system/title.png); 
+}
+/*功能菜单面板css*/
+.cs-west {
+	width:230px;
+	padding:0px;
+}
+/*下方面板css*/
+.cs-south {
+	height:50px;
+	background:#B3DFDA;
+	padding:0px;
+	font-size:120%;
+	font-family:arial;
+	text-align:center;
+}
+/*菜单选项css*/
+.cs-navi-tab {
+	padding: 10px;
+	font-size:110%;
+	text-decoration:none;
+}
+/*连接按钮css*/
+button.cs-link{
+	font-family:'楷体';
+	background-color:transparent;
+	border-radius:10px;
+	width:200px;
+	height:30px;
+	cursor:hand;
+}
+

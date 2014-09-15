@@ -1,0 +1,55 @@
+div.icon{
+	position:absolute;
+}
+div.title{
+	position:absolute;
+	top:50px;
+}
+
+/**********************************/
+div.loginBox{
+	position:absolute;
+	top:0px;
+	left:256px;
+}
+div.username{
+	position:absolute;
+	top:86px;
+	left:170px;
+}
+div.password{
+	position:absolute;
+	top:145px;
+	left:170px;
+}
+div.login{
+	position:absolute;
+	top:255px;
+	left:290px;
+	width:58px;
+	height:52px;
+}
+div.back{
+	position:absolute;
+	top:255px;
+	left:349px;
+	width:58px;
+	height:52px;
+}
+div.fp{
+	position:absolute;
+	top:270px;
+	left:120px;
+	width:160px;
+	height:32px;
+}
+/**********************************/
+
+div.button{
+	width:100%;
+	height:100%;
+	top:0px;
+	left:0px;
+}
+ 
+ 
