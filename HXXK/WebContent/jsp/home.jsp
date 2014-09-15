@@ -64,7 +64,7 @@
     	<div id="tabs" class="easyui-tabs"  fit="true" border="false">
             <div title="Home">
 				<div >
-					<p style="font-family:'华文行楷';font-size:35px;border-radius:10px;text-align:center;">南京大学化学实验中心选课系统欢迎您！</p>
+					<p style="font-family:'华文行楷';font-size:35px;border-radius:10px;text-align:center;">南京大学化学实验中心欢迎您！</p>
 				</div>
 			</div>
    		</div>
